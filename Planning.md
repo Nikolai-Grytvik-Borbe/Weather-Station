@@ -1,11 +1,11 @@
 ### Components Needed ( <ins>NOT FINISHED</ins> )
-- **Arduino Uno** (or any other compatible microcontroller): ~$20
-- **DHT11** or **DHT22** sensor (for temperature and humidity): ~$5-$10
-- **BMP180** or **BMP280** sensor (for atmospheric pressure): ~$5-$10
-- **SD card module** (for data logging, optional): ~$5
-- **LCD display** (optional, for real-time data display): ~$10
-- **Breadboard and jumper wires**: ~$10
-- **Miscellaneous (cables, power supply, enclosure)**: ~$20-$30
+- [x] **Raspberry pi** 
+- [ ] **DHT11** or **DHT22** sensor (for temperature and humidity): ~$5-$10
+- [ ] **BMP180** or **BMP280** sensor (for atmospheric pressure): ~$5-$10
+- [ ] **SD card module** (for data logging, optional): ~$5
+- [ ] **LCD display** (optional, for real-time data display): ~$10
+- [ ] **Breadboard and jumper wires**: ~$10
+- [ ] **Miscellaneous (cables, power supply, enclosure)**: ~$20-$30
 
 ### Steps to Get Started:
 1. **Plan Your Project**: Decide which measurements you want your weather station to take. Temperature and humidity are straightforward, but you can also include atmospheric pressure, wind speed, and direction if you're up for a challenge.
