@@ -1,12 +1,17 @@
-### Components Needed ( <ins>Partly ChatGPT generated, can be wrong</ins> )
-- [x] **Raspberry pi** 
-- [ ] **DHT11** or **DHT22** sensor (for temperature and humidity): ~$5-$10
-- [ ] **BMP180** or **BMP280** sensor (for atmospheric pressure): ~$5-$10
-- [ ] **SD card module** (for data logging, optional): ~$5
-- [ ] **LCD display** (optional, for real-time data display): ~$10
-- [ ] **Breadboard and jumper wires**: ~$10
-- [ ] **Miscellaneous (cables, power supply, enclosure)**: ~$20-$30
-- [ ] **Anemometer (Maybe build on our own)**
+### TODO
+- [ ] 3D printing av vindmåler
+- [ ] 3D printing av vanntippe
+
+### Components Needed
+- [x] Raspberry Pi
+- [ ] DHT22 (temperature and humidity)
+- [ ] HC-SR501 (Infrared)
+- [ ] GY-BMP280 (Pressure)
+- [ ] LM393 (Photosensitive)
+- [ ] Reed switch
+- [ ] Breadboard
+- [ ] Koblingskabler
+- [ ] KY-008 (Laser)
 
 ### Steps to Get Started:
 1. **Plan Your Project**: Decide which measurements you want your weather station to take. Temperature and humidity are straightforward, but you can also include atmospheric pressure, wind speed, and direction if you're up for a challenge.
