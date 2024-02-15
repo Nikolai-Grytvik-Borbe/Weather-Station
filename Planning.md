@@ -1,6 +1,6 @@
 ### TODO
 - [ ] 3D printing av vindmåler
-- [ ] 3D printing av vanntippe
+- [ ] 3D printing av [vanntipple](https://projects.raspberrypi.org/en/projects/build-your-own-weather-station/8)
 
 ### Components Needed
 - [x] Raspberry Pi
